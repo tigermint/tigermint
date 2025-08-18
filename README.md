@@ -1,16 +1,14 @@
-## Hi there 👋
+## About
+*TBD...*
 
-<!--
-**tigermint/tigermint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
+**Karrot** - Software Engineer, Backend Intern *(2024.08 ~ 2025.02)*
 
-Here are some ideas to get you started:
+**Software Maestro 14th** - Trainee *(2023.04 ~ 2023.12)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source Contributions
+**[mockk](https://github.com/mockk/mockk)** - Kotlin mocking framework
+- Fixed Duration constructor AssertionError in random value generation [#1424](https://github.com/mockk/mockk/pull/1424)
+
+**[naver/fixture-monkey](https://github.com/naver/fixture-monkey)** - Test fixture generator
+- Add Cursor Rule for Fixture Monkey Test Writing Guidelines [#1195](https://github.com/naver/fixture-monkey/pull/1195)
