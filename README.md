@@ -2,9 +2,9 @@
 *TBD...*
 
 ## Experience
-**ABLY** - Backend Engineer *(2025.09 ~ current)*
+**[@ably](https://github.com/banhala)** - Backend Engineer *(2025.09 ~ current)*
 
-**Karrot** - Software Engineer, Backend Intern *(2024.08 ~ 2025.02)*
+**[@daangn](https://github.com/daangn)** - Software Engineer, Backend Intern *(2024.08 ~ 2025.02)*
 
 **Software Maestro 14th** - Trainee *(2023.04 ~ 2023.12)*
 
