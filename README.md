@@ -2,7 +2,7 @@
 *TBD...*
 
 ## Experience
-**ABLY** - Software Engineer, Backend Intern *(2025.09 ~ current)*
+**ABLY** - Backend Engineer *(2025.09 ~ current)*
 
 **Karrot** - Software Engineer, Backend Intern *(2024.08 ~ 2025.02)*
 
