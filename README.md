@@ -1,6 +1,3 @@
-## About
-*TBD...*
-
 ## Experience
 **[@ably](https://github.com/banhala)** - Backend Engineer *(2025.09 ~ current)*
 
